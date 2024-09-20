@@ -37,3 +37,7 @@ Hangman is a classic word-guessing game where players attempt to guess a hidden 
 │   └── styles.css         # Styling for the game
 ├── README.md              # Project documentation
 └── package.json           # Project dependencies and scripts
+````
+<p align="center">
+  <img src="https://github.com/ashish8513/React-Hangman-Game/blob/main/public/fail%20and%20suggest.png"  width="500"/>
+</p>
