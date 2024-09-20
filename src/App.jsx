@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hangman Game</h1>
-      <Hangman />
+{/*       <Hangman /> */}
     </div>
   );
 }
