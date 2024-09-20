@@ -22,6 +22,7 @@ Hangman is a classic word-guessing game where players attempt to guess a hidden 
 5. You win if you guess the word before the hangman is fully drawn.
 6. You lose if you run out of guesses and the hangman is completed.
 
+![Home Page](https://github.com/ashish8513/React-Hangman-Game/blob/main/prabhakar.png)
 ## Project Structure
 
 ```bash
