@@ -4,7 +4,7 @@
 Hangman is a classic word-guessing game where players attempt to guess a hidden word by suggesting letters one at a time. Each incorrect guess brings the player closer to losing, as a stick-figure representation of a "hangman" is drawn progressively. The objective is to guess the word correctly before running out of attempts.
 
 
-![First loading Page](https://github.com/ashish8513/30-days-javascript-leetCode-challenges/blob/main/leetcode.png)
+![Home Page](https://github.com/ashish8513/React-Hangman-Game/blob/main/image.png)
 ## Features
 
 - **Random Word Selection**: A random word is chosen for the player to guess.
