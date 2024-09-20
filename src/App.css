@@ -1,0 +1,30 @@
+.App {
+    text-align: center;
+  }
+  
+  .Hangman {
+    margin-top: 20px;
+  }
+  
+  .WordDisplay {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .Keyboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .Keyboard button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  button[disabled] {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
